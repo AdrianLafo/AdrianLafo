@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Adrian Lafontaine a Frontend developer from Mexico.
+
+
 <!--
 **AdrianLafo/AdrianLafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
